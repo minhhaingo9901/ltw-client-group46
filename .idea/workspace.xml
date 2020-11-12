@@ -59,7 +59,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ltw-admin-group46" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -69,6 +69,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ngo Minh Hai\Documents\GitHub\ltw-client-group46" />
       <recent name="D:\Lap trinh web\GIT\ltw-client-group46" />
     </key>
   </component>
@@ -83,6 +84,8 @@
       <workItem from="1604547105666" duration="1134000" />
       <workItem from="1604640345451" duration="6066000" />
       <workItem from="1604678669704" duration="109000" />
+      <workItem from="1605146104378" duration="3765000" />
+      <workItem from="1605150444498" duration="16000" />
     </task>
     <servers />
   </component>
@@ -102,9 +105,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1604564512379">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="521" y="144" key="FileChooserDialogImpl" timestamp="1605150458164">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604564512379" />
+    <state x="521" y="144" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1605150458164" />
   </component>
 </project>
