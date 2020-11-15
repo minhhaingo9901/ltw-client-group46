@@ -61,7 +61,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/New folder/ltw-client-group46" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -97,7 +97,8 @@
       <workItem from="1605207416775" duration="67000" />
       <workItem from="1605322574124" duration="756000" />
       <workItem from="1605423658338" duration="3981000" />
-      <workItem from="1605463106852" duration="1086000" />
+      <workItem from="1605463106852" duration="2005000" />
+      <workItem from="1605467447042" duration="377000" />
     </task>
     <servers />
   </component>
@@ -117,10 +118,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="521" y="144" key="FileChooserDialogImpl" timestamp="1605463120934">
+    <state x="521" y="144" key="FileChooserDialogImpl" timestamp="1605464341322">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604564512379" />
-    <state x="521" y="144" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1605463120934" />
+    <state x="521" y="144" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1605464341322" />
   </component>
 </project>
